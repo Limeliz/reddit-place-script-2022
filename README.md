@@ -64,7 +64,7 @@ Note: Please use https://jsonlint.com/ to check that your JSON file is correctly
 			"start_coords": [0, 0]
 		},
 		// username of account 2
-		"worker1username": {
+		"worker2username": {
 			// password of account 2
 			"password": "password",
 			// which pixel of the image to draw first
